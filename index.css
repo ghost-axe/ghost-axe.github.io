@@ -13,6 +13,9 @@ body {
   position: relative;
   z-index: 3;
 }
+.page1::-webkit-scrollbar {
+  display: none; /* Chrome Safari */
+}
 .page1 .top {
   height: 100vh;
   background: #000;
