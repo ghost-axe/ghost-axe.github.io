@@ -1,0 +1,14 @@
+@font-face {
+    font-family: longyin;
+    src: url('../fonts/longyin.ttf');
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signboarb {
+    font-family: longyin;
+    font-size: 10vw;
+}
